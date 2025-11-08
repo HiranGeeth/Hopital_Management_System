@@ -9,3 +9,5 @@ Future features include physician location tracking via RFID check-in and pharma
 **Impact**: This system replaces manual book-based ward management in Sri Lanka with IoT-enabled, real-time decision support. It enhances patient safety, improves nursing responsiveness, optimizes drug stock control and builds the path toward smart hospital digitization.
 
 **Relevant SDGs**: SDG 3 (Health), SDG 9 (Innovation), SDG 12 (Resource Efficiency).
+
+**Application**: [text](https://drive.google.com/file/d/1_wQxfUsKbdeD8k0F0DvWeJI68rdJVgrl/view?usp=sharing) 
