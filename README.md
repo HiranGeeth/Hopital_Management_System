@@ -10,4 +10,4 @@ Future features include physician location tracking via RFID check-in and pharma
 
 **Relevant SDGs**: SDG 3 (Health), SDG 9 (Innovation), SDG 12 (Resource Efficiency).
 
-**Application**: [text](https://drive.google.com/file/d/1_wQxfUsKbdeD8k0F0DvWeJI68rdJVgrl/view?usp=sharing) 
+**Application exe file**: [Click-Me](https://drive.google.com/file/d/1_wQxfUsKbdeD8k0F0DvWeJI68rdJVgrl/view?usp=sharing) 
