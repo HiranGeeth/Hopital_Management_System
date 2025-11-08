@@ -1,0 +1,17 @@
+{
+  "name": "hms_app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+  "start": "electron .",
+  "package": "electron-packager . hms_app --platform=win32 --arch=x64 --icon=icon.ico --overwrite"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^37.1.0",
+    "electron-packager": "^17.1.2"
+  }
+}

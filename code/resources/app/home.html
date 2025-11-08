@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ward Management System - IoT</title>
+  <link rel="stylesheet" href="homestyle.css" />
+  <script defer src="homescript.js"></script>
+</head>
+<body>
+  <!-- Top Navigation Bar -->
+  <header class="topbar">
+    <div class="app-name">Ward Management System - IoT</div>
+    <div class="topbar-buttons">
+      <button class="top-button">Settings</button>
+      <button class="top-button">Contact Us</button>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="main-section">
+    <div class="card-container">
+      <div class="card" onclick="goToPage('pat.html')">
+        <img src="vitals.jpg" alt="Patients" class="card-icon" />
+        <div class="card-label">Patients</div>
+      </div>
+      <div class="card" onclick="goToPage('stocks.html')">
+        <img src="med.png" alt="Medicine Stocks" class="card-icon" />
+        <div class="card-label">Medicine Stocks</div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    &copy; 2025 Ward Management System. All Rights Reserved.
+  </footer>
+</body>
+</html>
